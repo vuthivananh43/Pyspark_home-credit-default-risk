@@ -3,13 +3,11 @@ This project is the final assignment of course "Traitement des données distribu
 
 The objective of this project is to solve the binary classification of home credit default by Pyspark with available classic models in Pyspark MLlib.
 
-Please load dataset from this link here: 
+## Please load dataset from this link here: 
 https://www.kaggle.com/c/home-credit-default-risk/data
 
 
-########################################################################
-Docker-running
-########################################################################
+## Docker running
 
 This project is done by using PySpark via Docker 
 - Starting Docker
